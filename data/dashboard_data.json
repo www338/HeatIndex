@@ -7,36 +7,8 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-09-04T12:39:24",
+  "updated": "2026-09-06T22:01:32",
   "records": [
-    {
-      "date": "2025-09-04",
-      "buzz_index": null,
-      "close": 1.263,
-      "log_close": 0.2335,
-      "open": 1.264,
-      "high": 1.267,
-      "low": 1.262,
-      "volume": 8702823,
-      "amount": 0.0,
-      "is_trading": true,
-      "slope": null,
-      "slope_full": null
-    },
-    {
-      "date": "2025-09-05",
-      "buzz_index": null,
-      "close": 1.278,
-      "log_close": 0.2453,
-      "open": 1.276,
-      "high": 1.278,
-      "low": 1.274,
-      "volume": 6680798,
-      "amount": 0.0,
-      "is_trading": true,
-      "slope": 0.015,
-      "slope_full": 0.015
-    },
     {
       "date": "2025-09-06",
       "buzz_index": null,
@@ -48,7 +20,7 @@
       "volume": null,
       "amount": null,
       "is_trading": false,
-      "slope_full": 0.015
+      "slope_full": null
     },
     {
       "date": "2025-09-07",
@@ -61,7 +33,7 @@
       "volume": null,
       "amount": null,
       "is_trading": false,
-      "slope_full": 0.015
+      "slope_full": null
     },
     {
       "date": "2025-09-08",
@@ -74,8 +46,8 @@
       "volume": 6079806,
       "amount": 0.0,
       "is_trading": true,
-      "slope": -0.006,
-      "slope_full": -0.006
+      "slope": null,
+      "slope_full": null
     },
     {
       "date": "2025-09-09",
@@ -3695,7 +3667,7 @@
     },
     {
       "date": "2026-06-01",
-      "buzz_index": 50.7,
+      "buzz_index": 50.6,
       "close": 1.764,
       "log_close": 0.5676,
       "open": 1.705,
@@ -3887,7 +3859,7 @@
     },
     {
       "date": "2026-06-15",
-      "buzz_index": 70.0,
+      "buzz_index": 69.9,
       "close": 1.677,
       "log_close": 0.517,
       "open": 1.65,
@@ -3969,7 +3941,7 @@
     },
     {
       "date": "2026-06-21",
-      "buzz_index": 65.9,
+      "buzz_index": 65.8,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3982,7 +3954,7 @@
     },
     {
       "date": "2026-06-22",
-      "buzz_index": 65.2,
+      "buzz_index": 65.1,
       "close": 1.686,
       "log_close": 0.5224,
       "open": 1.693,
@@ -4024,7 +3996,7 @@
     },
     {
       "date": "2026-06-25",
-      "buzz_index": 63.7,
+      "buzz_index": 63.6,
       "close": 1.657,
       "log_close": 0.505,
       "open": 1.658,
@@ -4312,7 +4284,7 @@
     },
     {
       "date": "2026-07-16",
-      "buzz_index": 70.8,
+      "buzz_index": 70.7,
       "close": 1.61,
       "log_close": 0.4762,
       "open": 1.611,
@@ -4518,7 +4490,7 @@
     },
     {
       "date": "2026-07-31",
-      "buzz_index": 89.2,
+      "buzz_index": 89.3,
       "close": 1.574,
       "log_close": 0.4536,
       "open": 1.571,
@@ -4970,7 +4942,7 @@
     },
     {
       "date": "2026-09-02",
-      "buzz_index": 95.9,
+      "buzz_index": 96.0,
       "close": 1.634,
       "log_close": 0.491,
       "open": 1.64,
@@ -4984,7 +4956,7 @@
     },
     {
       "date": "2026-09-03",
-      "buzz_index": 95.8,
+      "buzz_index": 96.1,
       "close": 1.636,
       "log_close": 0.4923,
       "open": 1.64,
@@ -4998,7 +4970,7 @@
     },
     {
       "date": "2026-09-04",
-      "buzz_index": 95.3,
+      "buzz_index": 95.8,
       "close": 1.664,
       "log_close": 0.5092,
       "open": 1.661,
@@ -5009,7 +4981,33 @@
       "is_trading": true,
       "slope": 0.028,
       "slope_full": 0.028
+    },
+    {
+      "date": "2026-09-05",
+      "buzz_index": 95.2,
+      "close": null,
+      "log_close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "amount": null,
+      "is_trading": false,
+      "slope_full": 0.028
+    },
+    {
+      "date": "2026-09-06",
+      "buzz_index": 94.5,
+      "close": null,
+      "log_close": null,
+      "open": null,
+      "high": null,
+      "low": null,
+      "volume": null,
+      "amount": null,
+      "is_trading": false,
+      "slope_full": 0.028
     }
   ],
-  "posts_count": 15608
+  "posts_count": 15986
 }
