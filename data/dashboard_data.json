@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-09-22T13:18:18",
+  "updated": "2026-09-22T22:48:43",
   "records": [
     {
       "date": "2025-09-22",
@@ -3477,7 +3477,7 @@
     },
     {
       "date": "2026-06-03",
-      "buzz_index": 48.9,
+      "buzz_index": 48.8,
       "close": 1.707,
       "log_close": 0.5347,
       "open": 1.735,
@@ -3628,7 +3628,7 @@
     },
     {
       "date": "2026-06-14",
-      "buzz_index": 69.1,
+      "buzz_index": 69.0,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3860,7 +3860,7 @@
     },
     {
       "date": "2026-07-01",
-      "buzz_index": 74.3,
+      "buzz_index": 74.2,
       "close": 1.652,
       "log_close": 0.502,
       "open": 1.666,
@@ -3915,7 +3915,7 @@
     },
     {
       "date": "2026-07-05",
-      "buzz_index": 71.6,
+      "buzz_index": 71.5,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4080,7 +4080,7 @@
     },
     {
       "date": "2026-07-17",
-      "buzz_index": 82.4,
+      "buzz_index": 82.3,
       "close": 1.561,
       "log_close": 0.4453,
       "open": 1.581,
@@ -4354,7 +4354,7 @@
     },
     {
       "date": "2026-08-06",
-      "buzz_index": 95.5,
+      "buzz_index": 95.4,
       "close": 1.67,
       "log_close": 0.5128,
       "open": 1.669,
@@ -4587,7 +4587,7 @@
     },
     {
       "date": "2026-08-23",
-      "buzz_index": 95.2,
+      "buzz_index": 95.1,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4670,7 +4670,7 @@
     },
     {
       "date": "2026-08-29",
-      "buzz_index": 95.1,
+      "buzz_index": 95.0,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4696,7 +4696,7 @@
     },
     {
       "date": "2026-08-31",
-      "buzz_index": 94.5,
+      "buzz_index": 94.4,
       "close": 1.653,
       "log_close": 0.5026,
       "open": 1.631,
@@ -4998,7 +4998,7 @@
     },
     {
       "date": "2026-09-22",
-      "buzz_index": 94.8,
+      "buzz_index": 95.0,
       "close": 1.714,
       "log_close": 0.5388,
       "open": 1.704,
@@ -5011,5 +5011,5 @@
       "slope_full": 0.027
     }
   ],
-  "posts_count": 22838
+  "posts_count": 23101
 }
