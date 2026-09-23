@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-09-23T13:32:37",
+  "updated": "2026-09-23T22:47:57",
   "records": [
     {
       "date": "2025-09-23",
@@ -3778,7 +3778,7 @@
     },
     {
       "date": "2026-06-26",
-      "buzz_index": 69.7,
+      "buzz_index": 69.9,
       "close": 1.609,
       "log_close": 0.4756,
       "open": 1.6,
@@ -3792,7 +3792,7 @@
     },
     {
       "date": "2026-06-27",
-      "buzz_index": 69.0,
+      "buzz_index": 69.2,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3805,7 +3805,7 @@
     },
     {
       "date": "2026-06-28",
-      "buzz_index": 68.3,
+      "buzz_index": 68.5,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3818,7 +3818,7 @@
     },
     {
       "date": "2026-06-29",
-      "buzz_index": 67.6,
+      "buzz_index": 67.8,
       "close": 1.63,
       "log_close": 0.4886,
       "open": 1.61,
@@ -3832,7 +3832,7 @@
     },
     {
       "date": "2026-06-30",
-      "buzz_index": 66.9,
+      "buzz_index": 67.2,
       "close": 1.648,
       "log_close": 0.4996,
       "open": 1.654,
@@ -3846,7 +3846,7 @@
     },
     {
       "date": "2026-07-01",
-      "buzz_index": 74.3,
+      "buzz_index": 74.4,
       "close": 1.652,
       "log_close": 0.502,
       "open": 1.666,
@@ -3860,7 +3860,7 @@
     },
     {
       "date": "2026-07-02",
-      "buzz_index": 73.7,
+      "buzz_index": 73.8,
       "close": 1.614,
       "log_close": 0.4787,
       "open": 1.643,
@@ -3874,7 +3874,7 @@
     },
     {
       "date": "2026-07-03",
-      "buzz_index": 73.0,
+      "buzz_index": 73.1,
       "close": 1.622,
       "log_close": 0.4837,
       "open": 1.605,
@@ -3888,7 +3888,7 @@
     },
     {
       "date": "2026-07-04",
-      "buzz_index": 72.3,
+      "buzz_index": 72.4,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3901,7 +3901,7 @@
     },
     {
       "date": "2026-07-05",
-      "buzz_index": 71.6,
+      "buzz_index": 71.7,
       "close": null,
       "log_close": null,
       "open": null,
@@ -3914,7 +3914,7 @@
     },
     {
       "date": "2026-07-06",
-      "buzz_index": 72.9,
+      "buzz_index": 73.0,
       "close": 1.625,
       "log_close": 0.4855,
       "open": 1.62,
@@ -3928,7 +3928,7 @@
     },
     {
       "date": "2026-07-07",
-      "buzz_index": 72.2,
+      "buzz_index": 72.3,
       "close": 1.624,
       "log_close": 0.4849,
       "open": 1.618,
@@ -3997,7 +3997,7 @@
     },
     {
       "date": "2026-07-12",
-      "buzz_index": 72.2,
+      "buzz_index": 72.3,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4010,7 +4010,7 @@
     },
     {
       "date": "2026-07-13",
-      "buzz_index": 71.5,
+      "buzz_index": 71.6,
       "close": 1.608,
       "log_close": 0.475,
       "open": 1.606,
@@ -4024,7 +4024,7 @@
     },
     {
       "date": "2026-07-14",
-      "buzz_index": 70.9,
+      "buzz_index": 71.0,
       "close": 1.613,
       "log_close": 0.4781,
       "open": 1.6,
@@ -4038,7 +4038,7 @@
     },
     {
       "date": "2026-07-15",
-      "buzz_index": 70.6,
+      "buzz_index": 70.7,
       "close": 1.629,
       "log_close": 0.488,
       "open": 1.627,
@@ -4066,7 +4066,7 @@
     },
     {
       "date": "2026-07-17",
-      "buzz_index": 82.3,
+      "buzz_index": 82.4,
       "close": 1.561,
       "log_close": 0.4453,
       "open": 1.581,
@@ -4490,7 +4490,7 @@
     },
     {
       "date": "2026-08-17",
-      "buzz_index": 93.3,
+      "buzz_index": 93.4,
       "close": 1.698,
       "log_close": 0.5295,
       "open": 1.7,
@@ -4573,7 +4573,7 @@
     },
     {
       "date": "2026-08-23",
-      "buzz_index": 95.1,
+      "buzz_index": 95.2,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4984,7 +4984,7 @@
     },
     {
       "date": "2026-09-22",
-      "buzz_index": 95.2,
+      "buzz_index": 95.3,
       "close": 1.714,
       "log_close": 0.5388,
       "open": 1.704,
@@ -4998,7 +4998,7 @@
     },
     {
       "date": "2026-09-23",
-      "buzz_index": 94.7,
+      "buzz_index": 94.9,
       "close": 1.728,
       "log_close": 0.547,
       "open": 1.724,
@@ -5011,5 +5011,5 @@
       "slope_full": 0.014
     }
   ],
-  "posts_count": 23344
+  "posts_count": 23580
 }
