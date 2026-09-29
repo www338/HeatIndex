@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-09-29T00:16:35",
+  "updated": "2026-09-29T14:47:02",
   "records": [
     {
       "date": "2025-09-29",
@@ -3395,7 +3395,7 @@
     },
     {
       "date": "2026-06-04",
-      "buzz_index": 48.2,
+      "buzz_index": 48.1,
       "close": 1.673,
       "log_close": 0.5146,
       "open": 1.679,
@@ -4190,7 +4190,7 @@
     },
     {
       "date": "2026-08-01",
-      "buzz_index": 89.3,
+      "buzz_index": 89.4,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4203,7 +4203,7 @@
     },
     {
       "date": "2026-08-02",
-      "buzz_index": 89.1,
+      "buzz_index": 89.2,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4532,7 +4532,7 @@
     },
     {
       "date": "2026-08-26",
-      "buzz_index": 95.6,
+      "buzz_index": 95.7,
       "close": 1.646,
       "log_close": 0.4983,
       "open": 1.644,
@@ -4930,7 +4930,7 @@
     },
     {
       "date": "2026-09-24",
-      "buzz_index": 95.6,
+      "buzz_index": 95.8,
       "close": 1.707,
       "log_close": 0.5347,
       "open": 1.707,
@@ -4944,7 +4944,7 @@
     },
     {
       "date": "2026-09-25",
-      "buzz_index": 95.1,
+      "buzz_index": 95.3,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4957,7 +4957,7 @@
     },
     {
       "date": "2026-09-26",
-      "buzz_index": 94.6,
+      "buzz_index": 94.8,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4970,7 +4970,7 @@
     },
     {
       "date": "2026-09-27",
-      "buzz_index": 93.9,
+      "buzz_index": 94.1,
       "close": null,
       "log_close": null,
       "open": null,
@@ -4983,7 +4983,7 @@
     },
     {
       "date": "2026-09-28",
-      "buzz_index": 93.4,
+      "buzz_index": 93.8,
       "close": 1.698,
       "log_close": 0.5295,
       "open": 1.707,
@@ -4997,17 +4997,18 @@
     },
     {
       "date": "2026-09-29",
-      "buzz_index": 92.8,
-      "close": null,
-      "log_close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "amount": null,
-      "is_trading": false,
-      "slope_full": -0.009
+      "buzz_index": 93.3,
+      "close": 1.708,
+      "log_close": 0.5353,
+      "open": 1.692,
+      "high": 1.709,
+      "low": 1.684,
+      "volume": 5709378,
+      "amount": 0.0,
+      "is_trading": true,
+      "slope": 0.01,
+      "slope_full": 0.01
     }
   ],
-  "posts_count": 25307
+  "posts_count": 25623
 }
