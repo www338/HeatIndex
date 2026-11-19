@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-11-19T01:47:33",
+  "updated": "2026-11-19T17:15:55",
   "records": [
     {
       "date": "2025-11-19",
@@ -2988,7 +2988,7 @@
     },
     {
       "date": "2026-06-25",
-      "buzz_index": 58.9,
+      "buzz_index": 58.8,
       "close": 1.657,
       "log_close": 0.505,
       "open": 1.658,
@@ -3234,7 +3234,7 @@
     },
     {
       "date": "2026-07-13",
-      "buzz_index": 67.1,
+      "buzz_index": 67.0,
       "close": 1.608,
       "log_close": 0.475,
       "open": 1.606,
@@ -4984,7 +4984,7 @@
     },
     {
       "date": "2026-11-18",
-      "buzz_index": 94.8,
+      "buzz_index": 94.9,
       "close": 1.602,
       "log_close": 0.4713,
       "open": 1.594,
@@ -4998,17 +4998,18 @@
     },
     {
       "date": "2026-11-19",
-      "buzz_index": 94.3,
-      "close": null,
-      "log_close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "amount": null,
-      "is_trading": false,
+      "buzz_index": 94.5,
+      "close": 1.61,
+      "log_close": 0.4762,
+      "open": 1.61,
+      "high": 1.612,
+      "low": 1.587,
+      "volume": 4856976,
+      "amount": 0.0,
+      "is_trading": true,
+      "slope": 0.008,
       "slope_full": 0.008
     }
   ],
-  "posts_count": 47482
+  "posts_count": 47813
 }
