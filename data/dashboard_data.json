@@ -7,7 +7,7 @@
     "scale_max": 100,
     "target_ceiling": 95
   },
-  "updated": "2026-11-23T00:38:40",
+  "updated": "2026-11-23T20:01:59",
   "records": [
     {
       "date": "2025-11-23",
@@ -4997,17 +4997,18 @@
     },
     {
       "date": "2026-11-23",
-      "buzz_index": 92.6,
-      "close": null,
-      "log_close": null,
-      "open": null,
-      "high": null,
-      "low": null,
-      "volume": null,
-      "amount": null,
-      "is_trading": false,
-      "slope_full": -0.084
+      "buzz_index": 92.8,
+      "close": 1.517,
+      "log_close": 0.4167,
+      "open": 1.495,
+      "high": 1.518,
+      "low": 1.466,
+      "volume": 10669802,
+      "amount": 0.0,
+      "is_trading": true,
+      "slope": -0.009,
+      "slope_full": -0.009
     }
   ],
-  "posts_count": 48728
+  "posts_count": 49102
 }
